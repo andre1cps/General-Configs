@@ -1,2 +1,2 @@
-# General-Configs
-This repository contains conda environments and other sources from where (channels) important packages can be downloaded.
+# README archive of first branch
+This archive is just an experiment dealing with an README archive inside de first branch.
